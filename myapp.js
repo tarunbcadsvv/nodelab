@@ -1,4 +1,4 @@
 function myfunc(){
-    console.log("hello world!");
+    console.log("my first app in nodejs");
 }
 myfunc();
